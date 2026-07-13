@@ -1,0 +1,3 @@
+Al enviar una petición POST a la ruta /reportes, el servidor registra el nuevo reporte con la información enviada.
+Luego, al realizar una petición GET a la misma ruta, el servidor devuelve una lista con los reportes almacenados,
+incluyendo el reporte que fue registrado con su identificador, tipo y descripción.
