@@ -1,0 +1,34 @@
+Entidad 1: Causa
+
+Campos principales:
+- id_causa: Identificador único de la causa.
+- titulo: Nombre o título de la causa comunitaria.
+- descripcion: Detalle de la necesidad o problema que busca solucionar.
+- categoria: Tipo de causa (social, ambiental, educativa, salud, etc.).
+- ubicacion: Lugar donde se desarrolla la causa.
+- fecha_creacion: Fecha en la que fue registrada.
+- estado: Estado actual de la causa (activa, completada, cancelada).
+
+Propósito de la información:
+La entidad Causa almacena la información de los proyectos, necesidades o iniciativas comunitarias que requieren apoyo. 
+Permite organizar, consultar y dar seguimiento a las diferentes causas registradas en la plataforma.
+
+
+Entidad 2: Apoyo
+
+Campos principales:
+- id_apoyo: Identificador único del apoyo.
+- id_causa: Identificador de la causa relacionada.
+- nombre_usuario: Nombre de la persona u organización que brinda apoyo.
+- tipo_apoyo: Tipo de colaboración ofrecida (donación, voluntariado, recursos, servicios).
+- descripcion: Detalle del apoyo proporcionado.
+- fecha_apoyo: Fecha en la que se registró el apoyo.
+- estado: Estado del apoyo (pendiente, aprobado, realizado).
+
+Propósito de la información:
+La entidad Apoyo registra las contribuciones realizadas por personas u organizaciones hacia las causas comunitarias. 
+Permite gestionar la participación de los usuarios y conocer los recursos disponibles para cada iniciativa.
+
+
+Relación entre entidades:
+Una Causa puede recibir varios registros de Apoyo, mientras que cada Apoyo pertenece a una única Causa.

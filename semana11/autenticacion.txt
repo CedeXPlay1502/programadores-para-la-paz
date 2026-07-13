@@ -1,0 +1,11 @@
+La autenticación o login es el proceso mediante el cual una aplicación identifica y verifica la identidad de un usuario.
+Permite controlar el acceso a diferentes funciones y recursos dentro de una plataforma.
+
+El usuario normalmente ingresa datos como correo electrónico y contraseña para validar su identidad.
+Algunas rutas deben estar protegidas porque pueden contener información privada o funciones administrativas.
+Proteger las rutas evita que personas no autorizadas modifiquen datos o accedan a información restringida.
+La seguridad de una aplicación ayuda a mantener la confianza de los usuarios y la integridad de la información.
+
+No se deben exponer públicamente contraseñas, documentos de identidad ni datos personales sensibles.
+Tampoco deben mostrarse tokens, claves de API, direcciones privadas o información interna de la comunidad.
+Una correcta autenticación permite que cada usuario acceda únicamente a los recursos que le corresponden.
