@@ -1,0 +1,4 @@
+Con la ruta localhost:3000 apareció: servidor activo. 
+Con la ruta localhost:3000/saludo apareció: Hola comunidad.
+Con la ruta localhost:3000/mensaje/juan apareció: Hola y agrego el nombre asignado "Juan".
+Lo que nos indica que cada dirección que ejecutamos trajo como evento una fracción del codigo.

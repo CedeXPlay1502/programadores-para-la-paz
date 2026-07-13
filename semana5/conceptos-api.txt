@@ -1,0 +1,9 @@
+La ruta app.post('/reporte') permite recibir información enviada por un usuario mediante una
+solicitud HTTP de tipo POST. En este caso, toma el dato llamado mensaje que viene dentro del cuerpo
+de la solicitud (req.body.mensaje) y devuelve una respuesta en formato JSON indicando que el reporte
+fue recibido junto con el mensaje enviado.
+
+Esta ruta podría utilizarse en una aplicación comunitaria para que los ciudadanos puedan enviar
+reportes, sugerencias o avisos sobre situaciones de su comunidad. Por ejemplo, permitiría informar
+sobre problemas en el barrio, actividades comunitarias o necesidades específicas, ayudando a mejorar
+la comunicación y la participación de las personas.
