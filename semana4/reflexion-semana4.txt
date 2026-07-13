@@ -1,0 +1,8 @@
+Considero que es importante que las comunidades e iniciativas ciudadanas puedan construir sus propias
+herramientas tecnológicas porque les permite crear soluciones adaptadas a sus necesidades reales.
+El uso de tecnologías abiertas como Node.js facilita el acceso al conocimiento, la colaboración y
+el desarrollo de proyectos sin depender completamente de herramientas privadas. Además, permite que
+más personas puedan aprender, participar y aportar sus ideas en la creación de soluciones digitales.
+Estas herramientas pueden ayudar a mejorar la comunicación, organizar actividades y resolver problemas
+dentro de una comunidad. También fortalecen la autonomía tecnológica y promueven una cultura de
+colaboración, innovación y participación ciudadana.
