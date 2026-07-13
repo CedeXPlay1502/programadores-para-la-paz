@@ -1,0 +1,2 @@
+Al realizar la petición POST a la ruta del localhost con le JSON proporcionado, el servidor recibe los datos y responde
+con un objeto JSON, que confirma que fueron recibidos correctamente, mostrando el estado, el nombre y el mensaje enviados.
