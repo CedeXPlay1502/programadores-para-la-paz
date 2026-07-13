@@ -1,0 +1,13 @@
+1. Un ciudadano ingresa a la plataforma y crea una nueva petición con información como título, descripción y objetivo 
+de la solicitud.
+
+2. La petición creada es validada y almacenada en la base de datos del sistema para mantener un registro organizado.
+
+3. Otros ciudadanos pueden consultar las peticiones disponibles y brindar su apoyo mediante el botón de participación.
+
+4. El sistema registra y actualiza automáticamente la cantidad de apoyos recibidos por cada petición.
+
+5. Cuando una petición alcanza la información necesaria, el sistema genera un documento PDF con los datos de la solicitud.
+
+6. El ciudadano puede descargar o enviar la petición a la entidad correspondiente para continuar con el proceso de 
+exigibilidad democrática.
