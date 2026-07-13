@@ -1,0 +1,9 @@
+Evento: Se registra un nuevo reporte en la plataforma comunitaria.
+
+Acción: n8n detecta el nuevo reporte y envía una notificación automática a un grupo o canal de Telegram.
+
+Mensaje: "Nuevo reporte recibido. Ingrese a la plataforma para revisar los detalles y realizar el seguimiento
+correspondiente."
+
+Información que no debe enviarse: nombres completos, números de identificación, direcciones, teléfonos, contraseñas,
+correos electrónicos ni otros datos personales o sensibles.
