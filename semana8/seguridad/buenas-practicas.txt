@@ -1,0 +1,3 @@
+1. Cerrar la sesión al terminar de usar la plataforma.
+2. Evitar conectarse desde redes WIFI públicas para acceder a información importante.
+3. Verificar que los correos y enlaces recibidos sean confiables antes de abrirlos.

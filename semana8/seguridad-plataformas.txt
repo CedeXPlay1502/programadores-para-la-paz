@@ -1,0 +1,5 @@
+1. Utilizar contraseñas seguras y únicas para cada usuario.
+2. Asignar permisos de acceso según el rol de cada persona.
+3. Mantener el sistema y las aplicaciones siempre actualizados.
+4. Realizar copias de seguridad de la información de forma periódica.
+5. Capacitar a los usuarios para reconocer intentos de fraude o phishing.
