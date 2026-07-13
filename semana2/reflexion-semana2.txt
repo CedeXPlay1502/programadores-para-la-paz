@@ -1,0 +1,8 @@
+Considero que saber utilizar la terminal es una habilidad importante para cualquier desarrollador,
+ya que permite organizar y administrar mejor los archivos de un proyecto. A través de ella se pueden
+crear carpetas, navegar entre directorios y ejecutar comandos de manera más rápida y eficiente. 
+Además, facilita el uso de herramientas como Git para controlar los cambios y trabajar en equipo.
+Tener dominio de la terminal ayuda a mantener una estructura ordenada dentro de un proyecto y a
+solucionar problemas con mayor facilidad. Por esta razón, aprender a utilizarla no solo mejora la
+productividad, sino que también fortalece las habilidades técnicas necesarias en el desarrollo
+de software.
